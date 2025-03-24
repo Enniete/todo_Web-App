@@ -1,7 +1,6 @@
 add a new member
 Master Python !
 Banana & pomme
-Rosalie et Heloïse
 Improved the app
 salut
 bonjour
